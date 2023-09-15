@@ -5,11 +5,14 @@
     android:layout_width="400dp"
     android:layout_height="400dp"
     tools:context=".MainActivity"
-    android:background="@drawable/sharesong_logo"
     >
 
 
-
-
-
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="176dp"
+        android:layout_height="270dp"
+        android:src="@drawable/sharesong_logo"
+        tools:layout_editor_absoluteX="112dp"
+        tools:layout_editor_absoluteY="56dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
