@@ -13,7 +13,7 @@
         android:id="@+id/imageView"
         android:layout_width="422dp"
         android:layout_height="463dp"
-        android:src="@drawable/sharesong_logo"
+        android:src="@drawable/sharesong_transparent"
         tools:layout_editor_absoluteX="-6dp"
         tools:layout_editor_absoluteY="98dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
