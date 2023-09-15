@@ -16,7 +16,7 @@ class MainActivity : AppCompatActivity() {
         val rotateAnimation: Animation = AnimationUtils.loadAnimation(this, R.anim.rotate_animation)
 
         // Set animation properties
-        rotateAnimation.duration = 1000
+        rotateAnimation.duration = 2500
         // Add more animation properties if needed
 
         // Start the animation
