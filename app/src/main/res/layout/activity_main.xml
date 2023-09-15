@@ -15,5 +15,7 @@
         android:layout_height="463dp"
         android:src="@drawable/sharesong_logo"
         tools:layout_editor_absoluteX="-6dp"
-        tools:layout_editor_absoluteY="98dp" />
+        tools:layout_editor_absoluteY="98dp"
+        tools:ignore="MissingConstraints" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
